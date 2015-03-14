@@ -1,0 +1,1 @@
+A wearable device that detects falls. False alarms can be cancelled. A tweet is sent to the responsible party who is then able to follow up on taking care of the problem.
